@@ -1,0 +1,67 @@
+@charset "utf-8";
+@font-face {
+    font-family: "inter";
+    src: url(../font/Inter/static/Inter-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "inter";
+    src: url(../font/Inter/static/Inter-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "inter";
+    src: url(../font/Inter/static/Inter-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "inter";
+    src: url(../font/Inter/static/Inter-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "inter";
+    src: url(../font/Inter/static/Inter-ExtraBold.ttf);
+    font-weight: 800;
+}
+
+
+@font-face {
+    font-family: "oswlad";
+    src: url(../font/Oswald/static/Oswald-SemiBold.ttf);
+    font-weight: 600;
+}
+@font-face {
+    font-family: "oswlad";
+    src: url(../font/Oswald/static/Oswald-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "noto-serif-Tamil";
+    src: url(../font/Noto_Serif_Tamil/static/NotoSerifTamil/NotoSerifTamil-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "oswlad";
+    src: url(../font/Noto_Serif_Tamil/static/NotoSerifTamil/NotoSerifTamil-SemiBold.ttf);
+    font-weight: 600;
+}
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+html{
+    background-color: #F5F4F0;
+}
